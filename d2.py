@@ -1,6 +1,6 @@
 """
 Author: Julio Pérez
-Date: 01-12-2024
+Date: 02-12-2024
 Description: Day 2 task 1 & 2 - Advent of Code 2024
 
 """
